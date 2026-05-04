@@ -1,0 +1,61 @@
+
+
+body{
+
+background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
+
+}
+
+header {
+
+  background-color: rgba(255, 247, 0, 0.362);
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  padding: 20px;
+  
+}
+
+ header a {
+         color: rgb(154, 55, 9);
+        margin: 0;
+         text-decoration: none;
+  font-weight: bold;
+}
+
+ nav a {
+  color: rgb(154, 55, 9);
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+
+.infoClientes{
+
+  background-color: rgba(254, 239, 165, 0.208);
+  font-size: 15px;
+  margin: auto;
+  width: 90%;
+  
+}
+
+td, th{
+
+  padding: 20px;
+}
+
+footer{
+
+  background-color: rgba(150, 107, 0, 0.423);
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+
+}
+
+
+
+
