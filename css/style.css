@@ -6,7 +6,7 @@ background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
 
 }
 
-header {
+.Encabezado {
 
   background-color: rgba(255, 247, 0, 0.362);
   display: flex;
@@ -16,14 +16,15 @@ header {
   
 }
 
- header a {
+.Encabezado a{
          color: rgb(154, 55, 9);
         margin: 0;
          text-decoration: none;
   font-weight: bold;
+  padding: 10px;
 }
 
- nav a {
+.Encabezado nav a :hover{
   color: rgb(154, 55, 9);
   margin-left: 20px;
   text-decoration: none;
