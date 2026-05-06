@@ -17,9 +17,9 @@ background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
 }
 
 .Encabezado a{
-         color: rgb(154, 55, 9);
-        margin: 0;
-         text-decoration: none;
+  color: rgb(154, 55, 9);
+  margin: 0;
+  text-decoration: none;
   font-weight: bold;
   padding: 10px;
 }
@@ -43,21 +43,23 @@ background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
 }
 
 td, th{
-
   padding: 20px;
 }
 
 footer{
 
   background-color: rgba(150, 107, 0, 0.423);
-   display: flex;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 20px;
 
 }
-
-
+.activo:hover{
+    background-color: rgb(61, 195, 61);
+    cursor: pointer;
+    font-weight: bold;
+}
 .inactivo:hover{
     background-color: rgb(235, 74, 74);
     cursor: pointer;
@@ -69,11 +71,3 @@ footer{
   font-size: 40px;
   font-family: 'Times New Roman', Times, serif;
 }
-
-
-
-
-
-
-
-
