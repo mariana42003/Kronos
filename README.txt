@@ -17,6 +17,6 @@
 ¨¨¨¨ Módulos¨¨¨¨
 - Mariana – Clientes
 - Erick – Productos
-- Manuel - Detalles
+- Manuel - Index
 - Evert - Pedidos
 - Paula - Empleados
