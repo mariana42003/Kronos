@@ -1,7 +1,13 @@
 
 
 body{
+<<<<<<< feature/empleados
 background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
+=======
+
+background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
+
+>>>>>>> develop
 }
 
 .Encabezado {
@@ -15,9 +21,15 @@ background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
 }
 
 .Encabezado a{
+<<<<<<< feature/empleados
   color: rgb(154, 55, 9);
   margin: 0;
   text-decoration: none;
+=======
+         color: rgb(154, 55, 9);
+        margin: 0;
+         text-decoration: none;
+>>>>>>> develop
   font-weight: bold;
   padding: 10px;
 }
@@ -41,18 +53,27 @@ background-image: url('../img/89b3f355-c868-4b79-8c1e-48e31ac146f6.png');
 }
 
 td, th{
+<<<<<<< feature/empleados
+=======
+
+>>>>>>> develop
   padding: 20px;
 }
 
 footer{
 
   background-color: rgba(150, 107, 0, 0.423);
+<<<<<<< feature/empleados
   display: flex;
+=======
+   display: flex;
+>>>>>>> develop
   justify-content: space-between;
   align-items: center;
   padding: 20px;
 
 }
+<<<<<<< feature/empleados
 .activo:hover{
     background-color: rgb(61, 195, 61);
     cursor: pointer;
@@ -69,4 +90,9 @@ footer{
   font-size: 40px;
   font-family: 'Times New Roman', Times, serif;
 }
+=======
+
+
+
+>>>>>>> develop
 
