@@ -58,5 +58,22 @@ footer{
 }
 
 
+.inactivo:hover{
+    background-color: rgb(235, 74, 74);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.dom{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
 
 
