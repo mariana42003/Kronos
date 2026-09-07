@@ -1,22 +1,15 @@
-** Actividad Grupal
+** Proyecto Kronos-Inventory
 
 ¨¨¨¨ Integrantes¨¨¨¨
 - Mariana Martinez
 - Erick Vasquez
 - Manuel Vigoya
 - Evert Arias
-- Paula Mora
-
-¨¨¨¨ Roles¨¨¨¨
-- Mariana  – Administradora
-- Erick – Colaborador 
-- Manuel - Colaborador 
-- Evert - Colaborador 
-- Paula - Colaborador 
+- David Villanueva
 
 ¨¨¨¨ Módulos¨¨¨¨
-- Mariana – Clientes
-- Erick – Productos
-- Manuel - Index
-- Evert - Pedidos
-- Paula - Empleados
+- Mariana – Gestión de Proveedores y Órdenes de Compra
+- Erick – Gestión de Materiales y Clasificación
+- Manuel - Gestión de Inventario (Entradas, Salidas y Alertas)
+- Evert - Gestión de Inventario (Entradas, Salidas y Alertas)
+- David - Gestión de Garantías
